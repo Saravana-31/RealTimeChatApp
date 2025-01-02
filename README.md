@@ -25,19 +25,6 @@ A simple and functional real-time chat application built with **Node.js**, **Exp
 - **Lightweight and Fast**: Built with a minimal and efficient tech stack.
 - **Easy to Set Up**: Start chatting locally in just a few steps.
 
-## 📂 Project Structure
-
-ChatApp/
-├── public/
-│   ├── index.html       # Frontend UI for the chat
-│   ├── style.css        # Styling for the chat page
-│   ├── client.js        # Client-side Socket.IO logic
-├── server/
-│   └── app.js           # Server-side logic using Node.js and Socket.IO
-├── package.json         # Project dependencies and scripts
-├── README.md            # Project overview (this file)
-
-
 ##How to Run
 
 Clone the repository:
@@ -60,10 +47,10 @@ http://localhost:3000
 
 ##💡 Future Enhancements
 
-User Authentication: Add login and registration for personalized chat rooms.
-Private Messaging: Allow direct one-on-one messaging.
-Message Storage: Use a database to store chat history.
-Emojis and Media Sharing: Support for sending emojis and attachments.
+**User Authentication**: Add login and registration for personalized chat rooms.
+**Private Messaging**: Allow direct one-on-one messaging.
+**Message Storage**: Use a database to store chat history.
+**Emojis and Media Sharing**: Support for sending emojis and attachments.
 
 ##📜 License
 This project is licensed under the MIT License.
