@@ -18,14 +18,14 @@ A simple chat application
 
 A simple and functional real-time chat application built with **Node.js**, **Express**, and **Socket.IO**. This app allows users to communicate instantly through text messages in a seamless and secure way.
 
-## 🚀 Features
+# 🚀 Features
 - **Real-Time Messaging**: Send and receive messages instantly using Socket.IO.
 - **Multiple Users**: Supports multiple users in the same chat room.
 - **Dynamic User Interface**: Auto-scroll and updates for the latest messages.
 - **Lightweight and Fast**: Built with a minimal and efficient tech stack.
 - **Easy to Set Up**: Start chatting locally in just a few steps.
 
-##How to Run
+# How to Run
 
 Clone the repository:
 
@@ -45,12 +45,12 @@ arduino
 
 http://localhost:3000
 
-##💡 Future Enhancements
+# 💡 Future Enhancements
 
 **User Authentication**: Add login and registration for personalized chat rooms.
 **Private Messaging**: Allow direct one-on-one messaging.
 **Message Storage**: Use a database to store chat history.
 **Emojis and Media Sharing**: Support for sending emojis and attachments.
 
-##📜 License
+# 📜 License
 This project is licensed under the MIT License.
